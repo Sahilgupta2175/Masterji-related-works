@@ -17,6 +17,7 @@
 
 # HTML
 
+ - https://sahil-blog.hashnode.dev/beginners-introduction-to-emmet-speed-up-your-html-coding
  - https://sahil-blog.hashnode.dev/simplifying-html-tags-and-elements-explained
 
 # CSS
