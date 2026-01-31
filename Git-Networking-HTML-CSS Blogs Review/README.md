@@ -15,6 +15,9 @@
  - https://sahil-blog.hashnode.dev/all-you-need-to-know-about-dns-record-types
  - https://sahil-blog.hashnode.dev/step-by-step-guide-to-dns-resolution-with-dig
 
+# cURL
+ - https://sahil-blog.hashnode.dev/how-to-start-using-curl-a-simple-guide-for-beginners
+
 # HTML
 
  - https://sahil-blog.hashnode.dev/beginners-introduction-to-emmet-speed-up-your-html-coding
