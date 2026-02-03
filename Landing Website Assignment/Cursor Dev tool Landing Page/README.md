@@ -1,8 +1,11 @@
 # Live link
 - https://cursor-homepage-sg.vercel.app
 
+<<<<<<< HEAD
 ---
 
+=======
+>>>>>>> 2a93e518da867f5b9b410f2ff9fa6bba8503c708
 # Cursor Landing Page Clone
 
 A pixel-perfect recreation of the Cursor.com landing page, built with HTML5 and CSS3.
