@@ -1,5 +1,4 @@
-# Live link
-- https://cursor-homepage-sg.vercel.app
+# Live link: https://cursor-homepage-sg.vercel.app
 
 ---
 
